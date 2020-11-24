@@ -1,0 +1,2674 @@
+fileFormatVersion: 2
+guid: f9c9778ef81fad144a250e3e728214e8
+timeCreated: 1445811926
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Captain Claw - Level 3 Objects_0
+    21300002: PC Computer - Captain Claw - Level 3 Objects_1
+    21300004: PC Computer - Captain Claw - Level 3 Objects_2
+    21300006: PC Computer - Captain Claw - Level 3 Objects_3
+    21300008: PC Computer - Captain Claw - Level 3 Objects_4
+    21300010: PC Computer - Captain Claw - Level 3 Objects_5
+    21300012: PC Computer - Captain Claw - Level 3 Objects_6
+    21300014: PC Computer - Captain Claw - Level 3 Objects_7
+    21300016: PC Computer - Captain Claw - Level 3 Objects_8
+    21300018: PC Computer - Captain Claw - Level 3 Objects_9
+    21300020: PC Computer - Captain Claw - Level 3 Objects_10
+    21300022: PC Computer - Captain Claw - Level 3 Objects_11
+    21300024: PC Computer - Captain Claw - Level 3 Objects_12
+    21300026: PC Computer - Captain Claw - Level 3 Objects_13
+    21300028: PC Computer - Captain Claw - Level 3 Objects_14
+    21300030: PC Computer - Captain Claw - Level 3 Objects_15
+    21300032: PC Computer - Captain Claw - Level 3 Objects_16
+    21300034: PC Computer - Captain Claw - Level 3 Objects_17
+    21300036: PC Computer - Captain Claw - Level 3 Objects_18
+    21300038: PC Computer - Captain Claw - Level 3 Objects_19
+    21300040: PC Computer - Captain Claw - Level 3 Objects_20
+    21300042: PC Computer - Captain Claw - Level 3 Objects_21
+    21300044: PC Computer - Captain Claw - Level 3 Objects_22
+    21300046: PC Computer - Captain Claw - Level 3 Objects_23
+    21300048: PC Computer - Captain Claw - Level 3 Objects_24
+    21300050: PC Computer - Captain Claw - Level 3 Objects_25
+    21300052: PC Computer - Captain Claw - Level 3 Objects_26
+    21300054: PC Computer - Captain Claw - Level 3 Objects_27
+    21300056: PC Computer - Captain Claw - Level 3 Objects_28
+    21300058: PC Computer - Captain Claw - Level 3 Objects_29
+    21300060: PC Computer - Captain Claw - Level 3 Objects_30
+    21300062: PC Computer - Captain Claw - Level 3 Objects_31
+    21300064: PC Computer - Captain Claw - Level 3 Objects_32
+    21300066: PC Computer - Captain Claw - Level 3 Objects_33
+    21300068: PC Computer - Captain Claw - Level 3 Objects_34
+    21300070: PC Computer - Captain Claw - Level 3 Objects_35
+    21300072: PC Computer - Captain Claw - Level 3 Objects_36
+    21300074: PC Computer - Captain Claw - Level 3 Objects_37
+    21300076: PC Computer - Captain Claw - Level 3 Objects_38
+    21300078: PC Computer - Captain Claw - Level 3 Objects_39
+    21300080: PC Computer - Captain Claw - Level 3 Objects_40
+    21300082: PC Computer - Captain Claw - Level 3 Objects_41
+    21300084: PC Computer - Captain Claw - Level 3 Objects_42
+    21300086: PC Computer - Captain Claw - Level 3 Objects_43
+    21300088: PC Computer - Captain Claw - Level 3 Objects_44
+    21300090: PC Computer - Captain Claw - Level 3 Objects_45
+    21300092: PC Computer - Captain Claw - Level 3 Objects_46
+    21300094: PC Computer - Captain Claw - Level 3 Objects_47
+    21300096: PC Computer - Captain Claw - Level 3 Objects_48
+    21300098: PC Computer - Captain Claw - Level 3 Objects_49
+    21300100: PC Computer - Captain Claw - Level 3 Objects_50
+    21300102: PC Computer - Captain Claw - Level 3 Objects_51
+    21300104: PC Computer - Captain Claw - Level 3 Objects_52
+    21300106: PC Computer - Captain Claw - Level 3 Objects_53
+    21300108: PC Computer - Captain Claw - Level 3 Objects_54
+    21300110: PC Computer - Captain Claw - Level 3 Objects_55
+    21300112: PC Computer - Captain Claw - Level 3 Objects_56
+    21300114: PC Computer - Captain Claw - Level 3 Objects_57
+    21300116: PC Computer - Captain Claw - Level 3 Objects_58
+    21300118: PC Computer - Captain Claw - Level 3 Objects_59
+    21300120: PC Computer - Captain Claw - Level 3 Objects_60
+    21300122: PC Computer - Captain Claw - Level 3 Objects_61
+    21300124: PC Computer - Captain Claw - Level 3 Objects_62
+    21300126: PC Computer - Captain Claw - Level 3 Objects_63
+    21300128: PC Computer - Captain Claw - Level 3 Objects_64
+    21300130: PC Computer - Captain Claw - Level 3 Objects_65
+    21300132: PC Computer - Captain Claw - Level 3 Objects_66
+    21300134: PC Computer - Captain Claw - Level 3 Objects_67
+    21300136: PC Computer - Captain Claw - Level 3 Objects_68
+    21300138: PC Computer - Captain Claw - Level 3 Objects_69
+    21300140: PC Computer - Captain Claw - Level 3 Objects_70
+    21300142: PC Computer - Captain Claw - Level 3 Objects_71
+    21300144: PC Computer - Captain Claw - Level 3 Objects_72
+    21300146: PC Computer - Captain Claw - Level 3 Objects_73
+    21300148: PC Computer - Captain Claw - Level 3 Objects_74
+    21300150: PC Computer - Captain Claw - Level 3 Objects_75
+    21300152: PC Computer - Captain Claw - Level 3 Objects_76
+    21300154: PC Computer - Captain Claw - Level 3 Objects_77
+    21300156: PC Computer - Captain Claw - Level 3 Objects_78
+    21300158: PC Computer - Captain Claw - Level 3 Objects_79
+    21300160: PC Computer - Captain Claw - Level 3 Objects_80
+    21300162: PC Computer - Captain Claw - Level 3 Objects_81
+    21300164: PC Computer - Captain Claw - Level 3 Objects_82
+    21300166: PC Computer - Captain Claw - Level 3 Objects_83
+    21300168: PC Computer - Captain Claw - Level 3 Objects_84
+    21300170: PC Computer - Captain Claw - Level 3 Objects_85
+    21300172: PC Computer - Captain Claw - Level 3 Objects_86
+    21300174: PC Computer - Captain Claw - Level 3 Objects_87
+    21300176: PC Computer - Captain Claw - Level 3 Objects_88
+    21300178: PC Computer - Captain Claw - Level 3 Objects_89
+    21300180: PC Computer - Captain Claw - Level 3 Objects_90
+    21300182: PC Computer - Captain Claw - Level 3 Objects_91
+    21300184: PC Computer - Captain Claw - Level 3 Objects_92
+    21300186: PC Computer - Captain Claw - Level 3 Objects_93
+    21300188: PC Computer - Captain Claw - Level 3 Objects_94
+    21300190: PC Computer - Captain Claw - Level 3 Objects_95
+    21300192: PC Computer - Captain Claw - Level 3 Objects_96
+    21300194: PC Computer - Captain Claw - Level 3 Objects_97
+    21300196: PC Computer - Captain Claw - Level 3 Objects_98
+    21300198: PC Computer - Captain Claw - Level 3 Objects_99
+    21300200: PC Computer - Captain Claw - Level 3 Objects_100
+    21300202: PC Computer - Captain Claw - Level 3 Objects_101
+    21300204: PC Computer - Captain Claw - Level 3 Objects_102
+    21300206: PC Computer - Captain Claw - Level 3 Objects_103
+    21300208: PC Computer - Captain Claw - Level 3 Objects_104
+    21300210: PC Computer - Captain Claw - Level 3 Objects_105
+    21300212: PC Computer - Captain Claw - Level 3 Objects_106
+    21300214: PC Computer - Captain Claw - Level 3 Objects_107
+    21300216: PC Computer - Captain Claw - Level 3 Objects_108
+    21300218: PC Computer - Captain Claw - Level 3 Objects_109
+    21300220: PC Computer - Captain Claw - Level 3 Objects_110
+    21300222: PC Computer - Captain Claw - Level 3 Objects_111
+    21300224: PC Computer - Captain Claw - Level 3 Objects_112
+    21300226: PC Computer - Captain Claw - Level 3 Objects_113
+    21300228: PC Computer - Captain Claw - Level 3 Objects_114
+    21300230: PC Computer - Captain Claw - Level 3 Objects_115
+    21300232: PC Computer - Captain Claw - Level 3 Objects_116
+    21300234: PC Computer - Captain Claw - Level 3 Objects_117
+    21300236: PC Computer - Captain Claw - Level 3 Objects_118
+    21300238: PC Computer - Captain Claw - Level 3 Objects_119
+    21300240: PC Computer - Captain Claw - Level 3 Objects_120
+    21300242: PC Computer - Captain Claw - Level 3 Objects_121
+    21300244: PC Computer - Captain Claw - Level 3 Objects_122
+    21300246: PC Computer - Captain Claw - Level 3 Objects_123
+    21300248: PC Computer - Captain Claw - Level 3 Objects_124
+    21300250: PC Computer - Captain Claw - Level 3 Objects_125
+    21300252: PC Computer - Captain Claw - Level 3 Objects_126
+    21300254: PC Computer - Captain Claw - Level 3 Objects_127
+    21300256: PC Computer - Captain Claw - Level 3 Objects_128
+    21300258: PC Computer - Captain Claw - Level 3 Objects_129
+    21300260: PC Computer - Captain Claw - Level 3 Objects_130
+    21300262: PC Computer - Captain Claw - Level 3 Objects_131
+    21300264: PC Computer - Captain Claw - Level 3 Objects_132
+    21300266: PC Computer - Captain Claw - Level 3 Objects_133
+    21300268: PC Computer - Captain Claw - Level 3 Objects_134
+    21300270: PC Computer - Captain Claw - Level 3 Objects_135
+    21300272: PC Computer - Captain Claw - Level 3 Objects_136
+    21300274: PC Computer - Captain Claw - Level 3 Objects_137
+    21300276: PC Computer - Captain Claw - Level 3 Objects_138
+    21300278: PC Computer - Captain Claw - Level 3 Objects_139
+    21300280: PC Computer - Captain Claw - Level 3 Objects_140
+    21300282: PC Computer - Captain Claw - Level 3 Objects_141
+    21300284: PC Computer - Captain Claw - Level 3 Objects_142
+    21300286: PC Computer - Captain Claw - Level 3 Objects_143
+    21300288: PC Computer - Captain Claw - Level 3 Objects_144
+    21300290: PC Computer - Captain Claw - Level 3 Objects_145
+    21300292: PC Computer - Captain Claw - Level 3 Objects_146
+    21300294: PC Computer - Captain Claw - Level 3 Objects_147
+    21300296: PC Computer - Captain Claw - Level 3 Objects_148
+    21300298: PC Computer - Captain Claw - Level 3 Objects_149
+    21300300: PC Computer - Captain Claw - Level 3 Objects_150
+    21300302: PC Computer - Captain Claw - Level 3 Objects_151
+    21300304: PC Computer - Captain Claw - Level 3 Objects_152
+    21300306: PC Computer - Captain Claw - Level 3 Objects_153
+    21300308: PC Computer - Captain Claw - Level 3 Objects_154
+    21300310: PC Computer - Captain Claw - Level 3 Objects_155
+    21300312: PC Computer - Captain Claw - Level 3 Objects_156
+    21300314: PC Computer - Captain Claw - Level 3 Objects_157
+    21300316: PC Computer - Captain Claw - Level 3 Objects_158
+    21300318: PC Computer - Captain Claw - Level 3 Objects_159
+    21300320: PC Computer - Captain Claw - Level 3 Objects_160
+    21300322: PC Computer - Captain Claw - Level 3 Objects_161
+    21300324: PC Computer - Captain Claw - Level 3 Objects_162
+    21300326: PC Computer - Captain Claw - Level 3 Objects_163
+    21300328: PC Computer - Captain Claw - Level 3 Objects_164
+    21300330: PC Computer - Captain Claw - Level 3 Objects_165
+    21300332: PC Computer - Captain Claw - Level 3 Objects_166
+    21300334: PC Computer - Captain Claw - Level 3 Objects_167
+    21300336: PC Computer - Captain Claw - Level 3 Objects_168
+    21300338: PC Computer - Captain Claw - Level 3 Objects_169
+    21300340: PC Computer - Captain Claw - Level 3 Objects_170
+    21300342: PC Computer - Captain Claw - Level 3 Objects_171
+    21300344: PC Computer - Captain Claw - Level 3 Objects_172
+    21300346: PC Computer - Captain Claw - Level 3 Objects_173
+    21300348: PC Computer - Captain Claw - Level 3 Objects_174
+    21300350: PC Computer - Captain Claw - Level 3 Objects_175
+    21300352: PC Computer - Captain Claw - Level 3 Objects_176
+    21300354: PC Computer - Captain Claw - Level 3 Objects_177
+    21300356: PC Computer - Captain Claw - Level 3 Objects_178
+    21300358: PC Computer - Captain Claw - Level 3 Objects_179
+    21300360: PC Computer - Captain Claw - Level 3 Objects_180
+    21300362: PC Computer - Captain Claw - Level 3 Objects_181
+    21300364: PC Computer - Captain Claw - Level 3 Objects_182
+    21300366: PC Computer - Captain Claw - Level 3 Objects_183
+    21300368: PC Computer - Captain Claw - Level 3 Objects_184
+    21300370: PC Computer - Captain Claw - Level 3 Objects_185
+    21300372: PC Computer - Captain Claw - Level 3 Objects_186
+    21300374: PC Computer - Captain Claw - Level 3 Objects_187
+    21300376: PC Computer - Captain Claw - Level 3 Objects_188
+    21300378: PC Computer - Captain Claw - Level 3 Objects_189
+    21300380: PC Computer - Captain Claw - Level 3 Objects_190
+    21300382: PC Computer - Captain Claw - Level 3 Objects_191
+    21300384: PC Computer - Captain Claw - Level 3 Objects_192
+    21300386: PC Computer - Captain Claw - Level 3 Objects_193
+    21300388: PC Computer - Captain Claw - Level 3 Objects_194
+    21300390: PC Computer - Captain Claw - Level 3 Objects_195
+    21300392: PC Computer - Captain Claw - Level 3 Objects_196
+    21300394: PC Computer - Captain Claw - Level 3 Objects_197
+    21300396: PC Computer - Captain Claw - Level 3 Objects_198
+    21300398: PC Computer - Captain Claw - Level 3 Objects_199
+    21300400: PC Computer - Captain Claw - Level 3 Objects_200
+    21300402: PC Computer - Captain Claw - Level 3 Objects_201
+    21300404: PC Computer - Captain Claw - Level 3 Objects_202
+    21300406: PC Computer - Captain Claw - Level 3 Objects_203
+    21300408: PC Computer - Captain Claw - Level 3 Objects_204
+    21300410: PC Computer - Captain Claw - Level 3 Objects_205
+    21300412: PC Computer - Captain Claw - Level 3 Objects_206
+    21300414: PC Computer - Captain Claw - Level 3 Objects_207
+    21300416: PC Computer - Captain Claw - Level 3 Objects_208
+    21300418: PC Computer - Captain Claw - Level 3 Objects_209
+    21300420: PC Computer - Captain Claw - Level 3 Objects_210
+    21300422: PC Computer - Captain Claw - Level 3 Objects_211
+    21300424: PC Computer - Captain Claw - Level 3 Objects_212
+    21300426: PC Computer - Captain Claw - Level 3 Objects_213
+    21300428: PC Computer - Captain Claw - Level 3 Objects_214
+    21300430: PC Computer - Captain Claw - Level 3 Objects_215
+    21300432: PC Computer - Captain Claw - Level 3 Objects_216
+    21300434: PC Computer - Captain Claw - Level 3 Objects_217
+    21300436: PC Computer - Captain Claw - Level 3 Objects_218
+    21300438: PC Computer - Captain Claw - Level 3 Objects_219
+    21300440: PC Computer - Captain Claw - Level 3 Objects_220
+    21300442: PC Computer - Captain Claw - Level 3 Objects_221
+    21300444: PC Computer - Captain Claw - Level 3 Objects_222
+    21300446: PC Computer - Captain Claw - Level 3 Objects_223
+    21300448: PC Computer - Captain Claw - Level 3 Objects_224
+    21300450: PC Computer - Captain Claw - Level 3 Objects_225
+    21300452: PC Computer - Captain Claw - Level 3 Objects_226
+    21300454: PC Computer - Captain Claw - Level 3 Objects_227
+    21300456: PC Computer - Captain Claw - Level 3 Objects_228
+    21300458: PC Computer - Captain Claw - Level 3 Objects_229
+    21300460: PC Computer - Captain Claw - Level 3 Objects_230
+    21300462: PC Computer - Captain Claw - Level 3 Objects_231
+    21300464: PC Computer - Captain Claw - Level 3 Objects_232
+    21300466: PC Computer - Captain Claw - Level 3 Objects_233
+    21300468: PC Computer - Captain Claw - Level 3 Objects_234
+    21300470: PC Computer - Captain Claw - Level 3 Objects_235
+    21300472: PC Computer - Captain Claw - Level 3 Objects_236
+    21300474: PC Computer - Captain Claw - Level 3 Objects_237
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Captain Claw - Level 3 Objects_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 475
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 475
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 475
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 476
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 475
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 475
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 463
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 342
+        width: 51
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 446
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 444
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 403
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 413
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 348
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 348
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 348
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 376
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 348
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 315
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 315
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 315
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 315
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 315
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 253
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 315
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 286
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 286
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 286
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 286
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 278
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 284
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 151
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 151
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 53
+        width: 51
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 206
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 151
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 53
+        width: 51
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 209
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_42
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 53
+        width: 51
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 202
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 151
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 151
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_46
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 151
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_47
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_48
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 53
+        width: 11
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_49
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 228
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_50
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 53
+        width: 64
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_51
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_52
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 234
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 212
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 217
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 210
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 215
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_57
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 219
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 184
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_60
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 177
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 194
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 205
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_63
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 177
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_67
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 178
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_69
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 179
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_70
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 192
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_71
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 177
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_74
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 189
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_75
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 200
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 179
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_77
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 190
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_79
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 175
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_80
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 189
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 186
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 175
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_84
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 186
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_85
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 202
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 195
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_87
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 203
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_88
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_89
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 177
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_90
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 211
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_91
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 202
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 186
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_93
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_94
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 195
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_95
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 197
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_96
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 201
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_97
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 205
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_98
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 199
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_99
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 209
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_100
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 180
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_101
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 199
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_102
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 184
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_103
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 206
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_104
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 181
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_105
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_106
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 211
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_107
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 200
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_108
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 191
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_109
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 188
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_110
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 180
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_111
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 208
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_112
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_113
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 161
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_116
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 161
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_117
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 159
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_118
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 164
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_119
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 170
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_121
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_122
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 53
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_124
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 53
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_125
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 118
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_126
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 119
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_127
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 112
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_128
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 53
+        width: 7
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_129
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 126
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_130
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 127
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_131
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 119
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_132
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 110
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_133
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 134
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 126
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_135
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 126
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_136
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 119
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 93
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_138
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 104
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_140
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_141
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 111
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_142
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 107
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_143
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_144
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 113
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_145
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 110
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_146
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 102
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_147
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 79
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_148
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_149
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 98
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 98
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_151
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 102
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_152
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 88
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_153
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 104
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_154
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_155
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 104
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_156
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 99
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_157
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 107
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_158
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 101
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_159
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_160
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_161
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 96
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_162
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_163
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_164
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_165
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 103
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_166
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_167
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 100
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_168
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 86
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_169
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 94
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_170
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 91
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_171
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_172
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_173
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 92
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_174
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_175
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 88
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_176
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 97
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_177
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 88
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_178
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 97
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_179
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 90
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_180
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 96
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_181
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 79
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_182
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_183
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_184
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 82
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_185
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 86
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_186
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 83
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_187
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 90
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_188
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 79
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_189
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 81
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_190
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 77
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_191
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 77
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_192
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 79
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_193
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 84
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_194
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_195
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 80
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_196
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 82
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_197
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 63
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_198
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 70
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_199
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 63
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 63
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_201
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 53
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_202
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 63
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_203
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 53
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_204
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 66
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_205
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_206
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 72
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_207
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_208
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_209
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_210
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_211
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_212
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_213
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_214
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_215
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_217
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_218
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_219
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_220
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_221
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_222
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_223
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_224
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_225
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 9
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_226
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_227
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_228
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_229
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_230
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 9
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_231
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_232
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_233
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_234
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_235
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Captain Claw - Level 3 Objects_237
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

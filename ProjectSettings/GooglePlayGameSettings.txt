@@ -1,0 +1,8 @@
+lastUpgrade=00927
+proj.AppId=321343880350
+and.BundleId=com.WOLKY.SwingJumper
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIDs
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e321343880350%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.WOLKY.SwingJumper%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_junior_tarzan%22%3eCgkInvnZjK0JEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_jumper_on_time.%22%3eCgkInvnZjK0JEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_stronger_arms%22%3eCgkInvnZjK0JEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_super%22%3eCgkInvnZjK0JEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_tarzan_king%22%3eCgkInvnZjK0JEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboard%22%3eCgkInvnZjK0JEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true

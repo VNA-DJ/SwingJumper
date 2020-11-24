@@ -1,0 +1,3 @@
+developerId=110949352
+applicationId=210826067
+returnAds=true
